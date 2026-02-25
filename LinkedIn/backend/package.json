@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "this is our first Major project",
   "license": "ISC",
-  "author": "ayush sahu",
+  "author": "prince sharma",
   "type": "module",
   "main": "index.js",
-    "scripts": {
-  "start": "node index.js",
-  "dev": "nodemon index.js"
-}
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
