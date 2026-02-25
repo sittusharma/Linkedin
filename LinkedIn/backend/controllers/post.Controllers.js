@@ -1,4 +1,4 @@
-import Post from "../models/Post.model.js"
+import post from "../models/post.model.js"
 import uploadOnCloudinary from "../config/cloudinary.js"
 import { io } from "../index.js";
 import Notification from "../models/notification.model.js";
